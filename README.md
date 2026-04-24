@@ -22,4 +22,4 @@ It is designed for learning, academic projects, and standardized C development s
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/fernandopasq/cdev.git
