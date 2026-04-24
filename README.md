@@ -18,8 +18,9 @@ It is designed for learning, academic projects, and standardized C development s
 ---
 
 ## ⚙️ How to use in VSCode
-
-1. Clone this repository:
+1. Install Docker 
+2. Install Dev Containers (Extension) on VsCode
+3. Clone this repository:
 
 ```bash
 git clone https://github.com/fernandopasq/cdev.git
